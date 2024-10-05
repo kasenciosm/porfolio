@@ -32,8 +32,8 @@
         "name": "Clon de Spotify",
         "position": "Desarrollador Fullstack",
         "url": "https://kenyify.onrender.com/",
-        "startDate": "2024-09-25",
-        "endDate": "2024-10-04",
+        "startDate": "09-2024",
+        "endDate": "10-2024",
         "summary": "Desarrollé un reproductor de música, clonando el UI de Spotify, las canciones son agregadas desde un panel de administrador y almacenadas en una base de datos (mongo DB)..",
         "highlights": [
           "Started the company"
@@ -43,8 +43,8 @@
         "name": "Weather App",
         "position": "Desarrollador Frontend",
         "url": "https://weather-app-react-ka.vercel.app/",
-        "startDate": "2024-07-10",
-        "endDate": "2024-08-01",
+        "startDate": "07-2024",
+        "endDate": "08-2024",
         "summary": "Desarrollé una aplicación web para ver el clima actual y semanal de distintas ciudades del mundo, conectado a Weather API.",
         "highlights": [
           "Started the company"
@@ -56,7 +56,7 @@
         "url": "https://app.egg.live/home",
         "area": "QA Automation",
         "studyType": "Analista QA",
-        "startDate": "02-09-2024",
+        "startDate": "09-2024",
         "endDate": "En curso",
         "courses": "QA Automation"
       },
@@ -65,8 +65,8 @@
       "area": "Desarrollado FullStack",
       "url": " https://academico-cloud.tecsup.edu.pe/pcc/#/home/certificado?c=714308&n=COD/CPE/23/180",
       "studyType": "Desarrollador de Software",
-      "startDate": "29-05-2023",
-      "endDate": "10-11-2023",
+      "startDate": "05-2023",
+      "endDate": "11-2023",
       "courses": "Desarrollo Web Fullstack"
     }],
     "skills": [
