@@ -1,0 +1,17 @@
+{
+  "name": "porfolio",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/ts-plugin": "^1.10.2",
+    "astro": "^4.15.9",
+    "ninja-keys": "^1.2.2"
+  }
+}

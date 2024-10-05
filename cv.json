@@ -1,0 +1,190 @@
+{
+    "basics": {
+      "name": "Kenyi Asencios Matias",
+      "label": "Frontend Developer ",
+      "image": "/kenyi.jpg",
+      "email": "asenciosm.k@gmail.com",
+      "phone": "+51 1 924533623",
+      "url": "https://www.linkedin.com/in/kenyi-asencios/",
+      "summary": "Desarrollador Web con sólidos conocimientos en HTML5, CSS3 y JavaScript y en manejos de tecnologías como React y Node.js, control de versiones con Git. Cuento con conocimientos básicos en TypeScript y PostgreSQL.",
+      "location": {
+        "address": "",
+        "postalCode": "08820",
+        "city": "Lima",
+        "countryCode": "ES",
+        "region": "Perú"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Kenyi Asencios",
+          "url": "https://www.linkedin.com/in/kenyi-asencios/"
+        },
+        {
+          "network": "GitHub",
+          "username": "kasenciosm",
+          "url": "https://github.com/kasenciosm"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Clon de Spotify",
+        "position": "Desarrollador Fullstack",
+        "url": "https://kenyify.onrender.com/",
+        "startDate": "2024-09-25",
+        "endDate": "2024-10-04",
+        "summary": "Desarrollé un reproductor de música, clonando el UI de Spotify, las canciones son agregadas desde un panel de administrador y almacenadas en una base de datos (mongo DB)..",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Weather App",
+        "position": "Desarrollador Frontend",
+        "url": "https://weather-app-react-ka.vercel.app/",
+        "startDate": "2024-07-10",
+        "endDate": "2024-08-01",
+        "summary": "Desarrollé una aplicación web para ver el clima actual y semanal de distintas ciudades del mundo, conectado a Weather API.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
+    "education": [{
+        "institution": "Globant",
+        "url": "https://app.egg.live/home",
+        "area": "QA Automation",
+        "studyType": "Analista QA",
+        "startDate": "02-09-2024",
+        "endDate": "En curso",
+        "courses": "QA Automation"
+      },
+      {
+      "institution": "Código By Tecsup",
+      "area": "Desarrollado FullStack",
+      "url": " https://academico-cloud.tecsup.edu.pe/pcc/#/home/certificado?c=714308&n=COD/CPE/23/180",
+      "studyType": "Desarrollador de Software",
+      "startDate": "29-05-2023",
+      "endDate": "10-11-2023",
+      "courses": "Desarrollo Web Fullstack"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Mongo DB",
+        "keywords": [
+          "Base de datos", "NoSQL"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        ]
+      },
+      {
+        "name": "React",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "Wheater-app",
+        "isActive": true,
+        "description": "Busqueda del clima de todas las ciudades del mundo",
+        "highlights": [
+          "Busca la temperatura a la que estas!",
+          "Sabrás el clima del resto de días de la semana."
+        ],
+        "url": "https://weather-app-react-ka.vercel.app/"
+      },
+      {
+        "name": "Kenyify",
+        "isActive": true,
+        "description": "Clon de Spotify...Kenyify, reproductor de canciones activo. Conectado a un panel de administrador y a una base de datos (Mongo DB).",
+        "highlights": [
+          "Reproducción de música!",
+          "Conectado a Mongo DB.",
+          "En desarrollo."
+        ],
+        "url": "https://kenyify.onrender.com/"
+      }
+    ]
+  }
