@@ -64,7 +64,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
 </footer>
 
 <div id="mobile-ninja-icon" class="mobile-icon">
-    <img src="/ninja.svg" alt="abrir comandos" width="16" height="16">
+   <div class="icon-circle"></div>
 </div>
 
 <ninja-keys
@@ -169,10 +169,28 @@ const profilesInfo = profiles.map(({ network, url }) => {
     .mobile-icon {
     display: none;
     position: fixed;
-    bottom: 32px;
-    right: 32px;
+    bottom: 20px;
+    right: 20px;
     cursor: pointer;
     }
+
+    .icon-circle {
+    width: 35px; /* Ancho del círculo */
+    height: 35px; /* Alto del círculo */
+    background-color: rgb(203, 203, 203); /* Color de fondo */
+    border-radius: 50%; /* Hace que el div sea un círculo */
+    display: flex;
+    justify-content: center; /* Centrar el contenido horizontalmente */
+    align-items: center; /* Centrar el contenido verticalmente */
+    color: white; /* Color del texto */
+    font-size: 16px; /* Tamaño del texto */
+    font-weight: bold;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para darle profundidad */
+
+    border: 3px solid rgb(236, 236, 236);
+    opacity: 80%;
+    }
+
 
     @media (max-width: 768px) {
     .mobile-icon {
